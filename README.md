@@ -1,0 +1,1 @@
+# fsd-next-template
